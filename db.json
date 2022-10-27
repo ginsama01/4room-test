@@ -1,0 +1,21 @@
+{
+  "posts": [
+    {
+      "post_id": 1,
+      "owner_id": "vuquangle",
+      "content": "hope this can help",
+      "filename": "web.pdf",
+      "upvote": 0,
+      "comment": [
+        {
+          "user_id": "Bob",
+          "content": "oke!"
+        },
+        {
+          "user_id": "Alice",
+          "content": "it's suck!"
+        }
+      ]
+    }
+  ]
+}
